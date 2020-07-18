@@ -17,3 +17,4 @@
 
 Прошивка стандартная от уважемого @Koen Kanters (https://github.com/Koenkk) https://github.com/Koenkk/Z-Stack-firmware/tree/master/coordinator/Z-Stack_3.x.0
 разработанная для платы LAUNCHXL. 
+ 
