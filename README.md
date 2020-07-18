@@ -8,8 +8,9 @@
 Кроме того четырьмя LED индикаторами Power, активности UART, RedLED и GrnLED. 
 
 
-На плате присутствуют все радиоканалы, как 2.4 GHz (+PA 2.4 Ghz) так и 868 MHz / 915 MHz / 433 MHz.  
-Так что при необходимости, без передели платы, на нее можно установить чип CC2652P (pin to pin) и получить полный фарш в виде Bluetooth v5.0, Thread, Zigbee®.
+На плате присутствуют все радиоканалы, как 2.4 GHz (+PA 2.4 Ghz) так и 868 MHz / 915 MHz / 433 MHz.
+Производитель заявляет поддержку чипом Thread, Zigbee®, Bluetooth® 5.1 Low Energy, IEEE 802.15.4g, IPv6-enabled smart objects (6LoWPAN), MIOTY® , Wireless M-Bus, WiSUN® , KNX RF, proprietary systems, SimpleLink™ TI 15.4-Stack (Sub-1 GHz), and Dynamic Multiprotocol Manager (DMM) driver. (https://www.ti.com/lit/gpn/cc1352p)
+При необходимости, без передели платы, на нее можно установить чип CC2652P (pin to pin).
 
 Плата снабжена полноценным разъемом ARM Cortex debug 10pin для прошивки и отладки (при необходимости).
 Прошивка осуществляется посредством J-Link либо XDS110. Проверено с J-Link и пакетами Uniflash и J-Flash.
