@@ -23,7 +23,7 @@
  
 Обсудить (на русском) можно здесь: https://t.me/zigbeer
 
-# In English 
+## In English 
 
 This stich is developed based on LAUNCHXL-CC1352P-2 board topology and TI documentation (https://www.ti.com/lit/zip/swrc350).
 
