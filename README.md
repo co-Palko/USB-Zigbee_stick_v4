@@ -2,6 +2,7 @@
 
 Очередная вариация USB stick для работы совместно с zigbee2mqtt.
 
+![alt tag](https://github.com/co-Palko/USB-Zigbee_stick_v4/blob/master/images/render.JPG)
 Разработана на основе топологии платы LAUNCHXL-CC1352P-2 и документации от TI (https://www.ti.com/lit/zip/swrc350). 
 
 Оснащена по подобию отладочной платы кнопками BTN-1, BTN-2, Reset. 
