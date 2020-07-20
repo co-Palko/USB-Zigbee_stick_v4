@@ -25,7 +25,7 @@
 
 ## In English 
 
-This stich is developed based on LAUNCHXL-CC1352P-2 board topology and TI documentation (https://www.ti.com/lit/zip/swrc350).
+This stick is developed based on LAUNCHXL-CC1352P-2 board topology and TI documentation (https://www.ti.com/lit/zip/swrc350).
 
 Equipped with BTN-1, BTN-2 and Reset buttons similar to a debug board. In addition, four LED indicators for Power, UART activity, RedLED and GrnLED.
 
